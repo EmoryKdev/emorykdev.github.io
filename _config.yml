@@ -1,12 +1,11 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: EmoryKDev
+email: emorykdev@gmail.com
+description:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+github_username: emorykdev
 
 # Build settings
 markdown: kramdown
